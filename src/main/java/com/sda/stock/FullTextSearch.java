@@ -13,7 +13,7 @@ public class FullTextSearch {
 
     public static void main(String[] args) {
 
-        try(MongoClient client = Utils.connect()) {
+        try (MongoClient client = Utils.connect()) {
             MongoDatabase db = client.getDatabase("products");
             MongoCollection<Document> products = db.getCollection("products");
             products.find(Filters.text("James"))

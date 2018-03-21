@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mongolibrary" />
+        <module name="stock" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mongolibrary" target="1.8" />
+      <module name="stock" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

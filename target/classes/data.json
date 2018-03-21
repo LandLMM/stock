@@ -1,0 +1,8 @@
+{title: 'Back to bedlam', type: 'album', stockCount: 10, authors: ['James Blunt'], details: {genre: 'pop', media: 'CD'}}
+{title: 'Some kind of trouble', type: 'album', stockCount: 8, authors: ['James Blunt'], details: {genre: 'pop', media: 'CD'}}
+{title: 'Altered Carbon', type: 'book', stockCount: 50, authors: ['Richard Morgan'], details: {genre: 'sci-fi', publisher: 'Victor Gollancz Ltd', edition: 1}}
+{title: 'Quantum information and quantum computation', type: 'book', stockCount: 2, authors: ['Michael Nielsen', 'Isaac Chuang'], details: {publisher: 'Oxford university press', edition: 2}}
+{title: 'Beautiful mind', type: 'movie', stockCount: 11, authors: ['Ron Howard'], details: {genre: 'drama', starring: ['Russell Crowe', 'Jennifer Connelly']}}
+{title: 'Terminator', type: 'movie', stockCount: 1, authors: ['James Cameron'], details: {genre: 'sci-fi', media: 'DVD', starring: ['Arnold Schwarzenegger']}}
+{title: 'The expendables 3', type: 'movie', stockCount: 3, authors: ['Patrick Hughes'], details: {genre: 'action', media: 'DVD', starring: ['Arnold Schwarzenegger', 'Jackie Chan', 'Bruce Willis', 'Sylvester Stallone', 'Jason Statham']}}
+{title: 'James boy', type: 'movie', stockCount: 12, authors: ['Trevor White'], details: {genre: 'drama', media: 'Blue-Ray', starring: ['Mary-Louise Parker', 'Ving Rhames']}}
